@@ -1,2 +1,2 @@
 # codeproject
-Addin something from UI. Firstproject.. :)
+Adding thing from UI. Firstproject.. :)
